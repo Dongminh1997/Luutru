@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-studio-298104",
+  "private_key_id": "6ceaff9bfb570f7c62e556000463b45766881475",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUceyH2hI18+2X\nFo9EzWKPt+vY6U2YjAySQMqbQ39WsTjFq9D7vLb7Ye3KbLUxDwhvCryH62VxbLJb\n6Tur9mMR/Hctk7Si8SfVKTtyJTERCn1YnwIx8bkCoxwsoUTHsRjdi0TmJg4qjPAu\nmkAOHED0YteV5+gVXzn2bo+NzYuCHz6mBWghtNzyna00fakgl/0XQBAkI8b64Rbd\nTsN5wuUmIKNnIgpM/o5JH8zv4mw/84HV3qy0c3e72am5DkriGVOOOMUcS4Hztozq\nE8vIf1aqVt1tl9CZi7d7358l/ZSoFg/ZHgkrTPiC6zS1DM3u0X9MWU0ICCbrpz/S\nGBMGIsyrAgMBAAECggEABm7WszxqvcB/qsoPl41ClUiD90MFSv++p7UXjYELO5RN\nPEsaHm1V+yG5gh4tlGk4n6grElCR90/LzNWwrWHeGR7UewhUeXSk+KLxfmDa7gGr\nzwGtntaLfCV1RnKxsvxNXPQJJ5Dyb95prXeVRfgcDWpqzcrCb9c82ZX6edhGB7Ad\nYcCluE4eBGnsRv3QkNpxDCT5XejNR4oA33Tmh9hOjEduba28rfr/fh/POJJjzIzH\npfZCICh3hPAqptfCHrKxjo/oRPRcwdRdgy40KBbqCI5ClI+JpI7wGYiOhzx0GRwv\n6BI6a9oEpzOgvx5A2600DHCLUhmpF9xZizA+oGy79QKBgQDz69wN8QphsRDPbha2\n8pX6OHOQDS5AMe7vcqF7fYzfr5/t5zj3Gz7LaNTbKyxc+IUTsDgugda7vw1xxrPR\nsPhWKMkyi1qdRtDHChbOihzEzFfAcuyrHichb5R5TcPwY00tqky6pY4rLoPOfKCo\nR75pIaqcx5e1UTDyP7bdoDUfRwKBgQDe9wuvmBSKy+kDESVHGriwCpdqXkYxBUgD\nwODA9I526Df9qStFJ1d36Vkngxm6iLHvobIXdc8mfTFoQYGhL/3u+tJ4+kCWeg5M\nm/o8m/cY3ooHRA3elZHHt3S+BsviX7V3iADomjMYQAzZIJ876gR7Bq3yBeAydIsm\nF8rynnLBfQKBgDobKaS4kvyKrbJ8SzTxvQCKihz6xtXMD1tDN2yvj+uJbtPBjTRw\nbRkPtAUx17OeEDWMeRW7IGhBLva3mwaM3dvIg4Vi5QcqY3nG0YAKLqhC9XSG7BIn\ncLLqXbg36kFNpokGVJjx71giEIwT7EGqNZXdy0Ll2SH8YWiT/P/2tjDpAoGBAKK0\nBIMOp27hfhgO2vUYOs277OJiCTacdADJLzmfPJbovnMMj9bW7q1CSxzaPlwwhCgq\nBpu4DII5uWQq6T2Gl/dccVp2w8sLJoQhDmpMJfSv8Gl87+INo2PqK/a/XujCjtm7\nFW6nl8GKe9W2SHygOMTOCwEh6IjpIuGZWy/REEzBAoGBAJdh59azWHZZ/4IkJO3L\nFqp+KBAHDtW+Oa791qzhj5rGOjsOFyO4LX09v1p4zKR+6q3DWcV9SwFXFL7xx5BZ\nEWUzFCUimkS+M2arDttUhBzIpDazb4sOnt1ImI9sTIM825+rfzK96756np3VXg1n\nti3F7qB8I230jR5QmKBU78KT\n-----END PRIVATE KEY-----\n",
+  "client_email": "sedo-500@data-studio-298104.iam.gserviceaccount.com",
+  "client_id": "104767458930968190022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sedo-500%40data-studio-298104.iam.gserviceaccount.com"
+}
